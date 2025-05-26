@@ -1,4 +1,4 @@
-from facefusion import wording
+from testingssff import wording
 
 
 def test_get() -> None:

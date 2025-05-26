@@ -1,4 +1,4 @@
-from facefusion.normalizer import normalize_fps, normalize_padding
+from testingssff.normalizer import normalize_fps, normalize_padding
 
 
 def test_normalize_padding() -> None:

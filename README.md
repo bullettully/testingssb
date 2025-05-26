@@ -3,21 +3,21 @@ FaceFusion
 
 > Industry leading face manipulation platform.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
-[![Coverage Status](https://img.shields.io/coveralls/facefusion/facefusion.svg)](https://coveralls.io/r/facefusion/facefusion)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/testingssff/testingssff/ci.yml.svg?branch=master)](https://github.com/testingssff/testingssff/actions?query=workflow:ci)
+[![Coverage Status](https://img.shields.io/coveralls/testingssff/testingssff.svg)](https://coveralls.io/r/testingssff/testingssff)
 ![License](https://img.shields.io/badge/license-OpenRAIL--AS-green)
 
 
 Preview
 -------
 
-![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
+![Preview](https://raw.githubusercontent.com/testingssff/testingssff/master/.github/preview.png?sanitize=true)
 
 
 Installation
 ------------
 
-Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](http://windows-installer.facefusion.io) and [macOS Installer](http://macos-installer.facefusion.io) get you started.
+Be aware, the [installation](https://docs.testingssff.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](http://windows-installer.testingssff.io) and [macOS Installer](http://macos-installer.testingssff.io) get you started.
 
 
 Usage
@@ -26,7 +26,7 @@ Usage
 Run the command:
 
 ```
-python facefusion.py [commands] [options]
+python testingssff.py [commands] [options]
 
 options:
   -h, --help                                      show this help message and exit
@@ -57,4 +57,4 @@ commands:
 Documentation
 -------------
 
-Read the [documentation](https://docs.facefusion.io) for a deep dive.
+Read the [documentation](https://docs.testingssff.io) for a deep dive.
