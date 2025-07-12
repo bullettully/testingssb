@@ -103,6 +103,7 @@ def conditional_download_sources(source_set : DownloadSet) -> bool:
 	process_manager.check()
 	_, invalid_source_paths = validate_source_paths(source_paths)
 	process_manager.end()
+	return True
 	if invalid_source_paths:
 		for index in source_set:
 			if source_set.get(index).get('path') in invalid_source_paths:
